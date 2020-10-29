@@ -1,2 +1,6 @@
 # AWS_-Cloud-architecture
-a cloud architecture of a web application. 
+
+A cloud architecture of a web application. 
+
+Highly scalable design with a Route53, CloudFront CND, Elastic load balancer, and RDS. 
+
